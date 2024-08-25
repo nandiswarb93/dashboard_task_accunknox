@@ -48,12 +48,13 @@ After running npm start, the app should automatically open in your default web b
 
 
 
-short execution : 
-download zip file and extract
-navigate to path and open it in command propmpt
-install node js
-npm install 
-npm start
+short execution :
+
+[download zip file and extract]
+[navigate to path and open it in command propmpt]
+[install node js]
+[npm install ]
+[npm start]
 
 
 
